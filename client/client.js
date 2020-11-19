@@ -15,7 +15,7 @@ getContacts= () =>{
         }
     });
 }
-var aaas;
+
 sendFormData = ()=>{
     let form = $('#contact-form');
     $.ajax({
